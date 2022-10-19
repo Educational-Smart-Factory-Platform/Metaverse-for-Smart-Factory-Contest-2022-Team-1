@@ -21,7 +21,7 @@
 ![Screenshot (820)](https://user-images.githubusercontent.com/114386015/194249020-5358601c-a3ed-4c7d-b6d2-76aee2677881.png)
 
 ### คลิปสาธิตผลงาน
-https://youtube.com/playlist?list=PL4RKtzZ7owKE1tO8DIRldozDwrqI1oI_u
+https://youtu.be/M4nGHyCT1xI
 
 ## รายชื่อสมาชิกทีม printf[YOLO]
 1. โชษิตา โสตถิกุล
